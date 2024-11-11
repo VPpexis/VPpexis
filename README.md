@@ -10,11 +10,7 @@
   <code><a href="https://www.instagram.com/vpppexis/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <p align="center">
-    I'm a passionate Computer Engineering student at Mapua University, graduating in August 2025, with a strong foundation in DevOps, web development, and cloud computing. My experience spans roles as a Web Developer Intern at Empath, where I developed and automated DevOps workflows with AWS and GitHub Actions, and as a part-time Website Developer at DOST-PTRI, where I managed dynamic websites and database infrastructure on AWS.
-
-    I enjoy creating efficient, scalable solutions, and I’m particularly skilled in Python, JavaScript, AWS, and Next.js. My projects often focus on automation, optimization, and user experience, including CI/CD pipelines, database management, and cross-functional development.
-
-    In addition to my technical expertise, I’m always open to learning and exploring new technologies, and I'm excited to contribute to impactful projects. Feel free to explore my repos and connect with me if you’re interested in collaborating!
+    I'm a passionate Computer Engineering student at Mapua University, graduating in August 2025, with a strong foundation in DevOps, web development, and cloud computing. My experience spans roles as a Web Developer Intern at Empath, where I developed and automated DevOps workflows with AWS and GitHub Actions, and as a part-time Website Developer at DOST-PTRI, where I managed dynamic websites and database infrastructure on AWS. I enjoy creating efficient, scalable solutions, and I’m particularly skilled in Python, JavaScript, AWS, and Next.js. My projects often focus on automation, optimization, and user experience, including CI/CD pipelines, database management, and cross-functional development. In addition to my technical expertise, I’m always open to learning and exploring new technologies, and I'm excited to contribute to impactful projects. Feel free to explore my repos and connect with me if you’re interested in collaborating!
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -60,8 +56,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/VPpexis/saas-landing-page-design" title="SaaS Landing Page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/VPpexis/CPE106L-ProjectCovidRecon" title="ProjectCovidRecon"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/VPpexis/saas-landing-page-design" title="SaaS Landing Page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VPpexis&repo=saas-landing-page-design&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/VPpexis/CPE106L-ProjectCovidRecon" title="ProjectCovidRecon"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VPpexis&repo=CPE106L-ProjectCovidRecon&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
