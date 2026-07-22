@@ -1,92 +1,104 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Van+Philip+Panugan;Nice+to+meet+you!&center=true&size=30">
   </a>
+</h1>
 
 <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/vanpanugan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/vanpanugan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/panuganvanphilip" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12940955/van-philip-panugan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/vpppexis/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-<p align="center">
-    I'm a passionate Computer Engineering student at Mapua University, graduating in August 2025, with a strong foundation in DevOps, web development, and cloud computing. My experience spans roles as a Web Developer Intern at Empath, where I developed and automated DevOps workflows with AWS and GitHub Actions, and as a part-time Website Developer at DOST-PTRI, where I managed dynamic websites and database infrastructure on AWS. I enjoy creating efficient, scalable solutions, and I’m particularly skilled in Python, JavaScript, AWS, and Next.js. My projects often focus on automation, optimization, and user experience, including CI/CD pipelines, database management, and cross-functional development. In addition to my technical expertise, I’m always open to learning and exploring new technologies, and I'm excited to contribute to impactful projects. Feel free to explore my repos and connect with me if you’re interested in collaborating!
-</p>
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-</p>
-<hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+## 👨‍💻 About Me
+
+<p align="center">
+  🚀 Aspiring <strong>DevOps / DevSecOps</strong> Engineer<br>
+  📍 Based in <strong>Manila, Philippines</strong><br>
+  🗣️ Languages: <strong>English</strong>, <strong>Tagalog</strong>, <strong>Bisaya</strong><br>
+  🌐 <a href="https://www.vanphilippanugan.com">www.vanphilippanugan.com</a>
+</p>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<br>
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+<br>
+<hr>
+<br>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=VPpexis&theme=react&border=61dafb&hide_border=true" alt="VPpexis" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=VPpexis&theme=tokyonight&hide_border=true" alt="VPpexis" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=VPpexis&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/stats-organization/github-stats-extended">
+      <img align="right" width=390 src="https://github-stats-extended.vercel.app/api?username=VPpexis&show_icons=true&theme=tokyonight&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPpexis&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/stats-organization/github-stats-extended">
+      <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VPpexis&theme=tokyonight&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
 </p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+<h2 align="center">📌 Featured Repos 📌</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/VPpexis/saas-landing-page-design" title="SaaS Landing Page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VPpexis&repo=saas-landing-page-design&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/VPpexis/CPE106L-ProjectCovidRecon" title="ProjectCovidRecon"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VPpexis&repo=CPE106L-ProjectCovidRecon&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/VPpexis/ProjectCovidRecon" title="ProjectCovidRecon">
+    <img align="left" height="115" src="https://github-stats-extended.vercel.app/api/pin/?username=VPpexis&repo=ProjectCovidRecon&theme=tokyonight&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/VPpexis/Sentinels" title="Sentinels">
+    <img align="right" height="115" src="https://github-stats-extended.vercel.app/api/pin/?username=VPpexis&repo=Sentinels&theme=tokyonight&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/VPpexis/my-portfolio" title="My Portfolio">
+    <img align="left" height="115" src="https://github-stats-extended.vercel.app/api/pin/?username=VPpexis&repo=my-portfolio&theme=tokyonight&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/VPpexis/saas-landing-page-design" title="SaaS Landing Page">
+    <img align="right" height="115" src="https://github-stats-extended.vercel.app/api/pin/?username=VPpexis&repo=saas-landing-page-design&theme=tokyonight&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/VPpexis?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-<!--
-**VPpexis/VPpexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
