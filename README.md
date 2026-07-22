@@ -17,8 +17,9 @@
 
 <p align="center">
   🚀 Aspiring <strong>DevOps / DevSecOps</strong> Engineer<br>
+  🛠 Skilled in <strong>Next.js</strong> · <strong>AWS</strong> · <strong>Python</strong> · <strong>Docker</strong> · <strong>TypeScript</strong><br>
   📍 Based in <strong>Manila, Philippines</strong><br>
-  🗣️ Languages: <strong>English</strong>, <strong>Tagalog</strong>, <strong>Bisaya</strong><br>
+  🗣️ English · Tagalog · Bisaya<br>
   🌐 <a href="https://www.vanphilippanugan.com">www.vanphilippanugan.com</a>
 </p>
 
@@ -27,18 +28,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,githubactions,nextjs,js,ts,python,docker,react,git,cpp,c,linux&theme=dark&perline=6" />
+  </a>
 </p>
 
 <br>
