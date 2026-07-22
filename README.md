@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Van+Philip+Panugan;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Van;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -29,8 +29,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,githubactions,nextjs,js,ts,python,docker,react,git,cpp,c,linux&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=aws,vercel,firebase,github,githubactions,nextjs,js,ts,python,docker,react,git,cpp,c,linux&theme=dark&perline=6" />
   </a>
+</p>
+
+<br>
+
+## 🤖 AI & LLMs
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)" />
+  <img src="https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kimi-000000?logo=ksoft&logoColor=white&style=for-the-badge" />
 </p>
 
 <br>
@@ -42,6 +51,7 @@
   <img src="https://img.shields.io/badge/AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff" />
 </p>
 
 <br>
