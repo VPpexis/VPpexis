@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  🚀 Aspiring <strong>DevOps / DevSecOps</strong> Engineer<br>
+  🚀 <strong>Software Engineer</strong><br>
   🛠 Skilled in <strong>Next.js</strong> · <strong>AWS</strong> · <strong>Python</strong> · <strong>Docker</strong> · <strong>TypeScript</strong><br>
   📍 Based in <strong>Manila, Philippines</strong><br>
   🗣️ English · Tagalog · Bisaya<br>
@@ -31,15 +31,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,vercel,firebase,github,githubactions,nextjs,js,ts,python,docker,react,git,cpp,c,linux&theme=dark&perline=6" />
   </a>
-</p>
-
-<br>
-
-## 🤖 AI & LLMs
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)" />
-  <img src="https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kimi-000000?logo=ksoft&logoColor=white&style=for-the-badge" />
 </p>
 
 <br>
